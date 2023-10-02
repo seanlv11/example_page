@@ -6,14 +6,16 @@
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/X(Twitter)-white?logo=#000000)](#) [![](https://img.shields.io/badge/DeBERTa-white?logo=#5E5E5E)](#)
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-black?logo=pytorch)](#) [![](https://img.shields.io/badge/X(Twitter)-black?logo=X)](#) [![](https://img.shields.io/badge/DeBERTa-black?logo=Microsoft)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+### Disease Classification of Retinal Fundus Images
+
+Remote areas of the world are often at disadvantage for preventative, regular healthcare. This is an early stages project using deeplearning aimed to help diagnosis of fundus
+diseases as a first line defense for those who do not have easy access to optometrists, as retina scanners can be portable and be carried by volunteers.
 
 <img src="images/mobility.png?raw=true" />
 
